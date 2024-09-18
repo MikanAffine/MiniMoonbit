@@ -1,0 +1,12 @@
+{
+  "name": "MikanAffine/MiniMoonbit",
+  "version": "0.1.0",
+  "source": "src",
+
+  "description": "Projects for the MGPIC",
+  "license": "Apache-2.0",
+  "readme": "README.md",
+  "repository": "https://github.com/MikanAffine/MiniMoonbit",
+  "homepage": "https://github.com/MikanAffine/MiniMoonbit",
+  "keywords": ["MiniMoonbit"]
+}
